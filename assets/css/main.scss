@@ -41,6 +41,7 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-.page__footer {
-  margin-top: 250px !important;
+/* Push footer lower on short pages */
+footer.page__footer {
+  margin-top: 300px !important;
 }
