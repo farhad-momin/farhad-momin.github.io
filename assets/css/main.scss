@@ -41,7 +41,17 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* Push footer lower on short pages */
-footer.page__footer {
-  margin-top: 300px !important;
+/* Keep footer near the bottom on short pages */
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.initial-content {
+  flex: 1 0 auto;
+}
+
+.page__footer {
+  flex-shrink: 0;
 }
