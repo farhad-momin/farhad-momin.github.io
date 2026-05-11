@@ -2,7 +2,7 @@
 title: "Optimizing NGBoost with Dynamic Sequential Model-Based Optimization for Predicting UHPC Compressive Strength on Heterogeneous Datasets"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-04-01-optimizing-ngboost-with-dynamic-sequential-model-based-optimization-for-predicting-uhpc-compressive-strength-on-heterogeneous-datasets-number-5
+permalink: /publication/2025-04-01-optimizing-ngboost-with-dynamic-sequential-model-based-optimization-for-predicting-uhpc-compressive-strength-on-heterogeneous-datasets
 excerpt: "This paper applies optimized machine learning methods to predict the compressive strength of ultra-high-performance concrete using heterogeneous datasets."
 date: 2025-04-01
 venue: "Materials Today Communications"
