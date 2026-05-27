@@ -55,3 +55,10 @@ body {
 .page__footer {
   flex-shrink: 0;
 }
+/* Disable sticky sidebar so the footer does not cover profile/social links */
+@media (min-width: 1024px) {
+  .sidebar.sticky {
+    position: relative !important;
+    top: auto !important;
+  }
+}
