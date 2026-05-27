@@ -62,3 +62,25 @@ body {
     top: auto !important;
   }
 }
+/* Fix sidebar text overflow and remove horizontal scrollbar */
+.sidebar {
+  overflow-x: hidden !important;
+}
+
+.author__urls-wrapper,
+.author__urls {
+  max-width: 100% !important;
+  overflow-x: hidden !important;
+}
+
+.author__urls li,
+.author__urls a {
+  max-width: 100% !important;
+  white-space: normal !important;
+  overflow-wrap: break-word !important;
+  word-break: normal !important;
+}
+
+.author__urls a {
+  display: inline-block !important;
+}
