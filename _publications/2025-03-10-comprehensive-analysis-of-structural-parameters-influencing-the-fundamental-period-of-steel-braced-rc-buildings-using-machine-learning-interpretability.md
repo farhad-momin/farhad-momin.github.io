@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive analysis of structural parameters influencing the fundamental period of steel-braced RC buildings using machine learning interpretability"
 collection: publications
-category: manuscripts
+category: journal
 permalink: /publication/2025-03-10-comprehensive-analysis-of-structural-parameters-influencing-the-fundamental-period-of-steel-braced-rc-buildings-using-machine-learning-interpretability
 excerpt: "This paper investigates structural parameters affecting the fundamental period of steel-braced reinforced concrete buildings using interpretable machine learning techniques."
 date: 2025-03-10
