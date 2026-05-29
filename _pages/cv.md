@@ -86,25 +86,26 @@ April 2017 – January 2022
 
 ### Journal Articles
 
-* Rahman, T., Momin, Md. F., Podder, S. K., Provasha, A. A., & Kumar, L. (2026). Bayesian-optimized hierarchical mixture of experts for steel corrosion-rate prediction in cementitious mortars. *Journal of Building Pathology and Rehabilitation, 11*(1), 73. https://doi.org/10.1007/s41024-025-00746-x
+* Rahman, T., Momin, Md. F., Podder, S. K., Provasha, A. A., & Kumar, L. (2026). Bayesian-optimized hierarchical mixture of experts for steel corrosion-rate prediction in cementitious mortars. *Journal of Building Pathology and Rehabilitation, 11*(1), 73. [doi:10.1007/s41024-025-00746-x](https://doi.org/10.1007/s41024-025-00746-x)
 
-* Al Rafi, A., Momin, Md. F., Sen, D., & Chowdhury, A. I. (2026). Effect of parent concrete’s properties on compressive strength of recycled aggregate concrete. *Journal of Building Pathology and Rehabilitation, 11*(1), 41. https://doi.org/10.1007/s41024-025-00717-2
+* Al Rafi, A., Momin, Md. F., Sen, D., & Chowdhury, A. I. (2026). Effect of parent concrete’s properties on compressive strength of recycled aggregate concrete. *Journal of Building Pathology and Rehabilitation, 11*(1), 41. [doi:10.1007/s41024-025-00717-2](https://doi.org/10.1007/s41024-025-00717-2)
 
-* Rahman, T., Momin, Md. F., Podder, S. K., Li, H., & Zheng, P. (2025). Optimizing NGBoost with dynamic sequential model-based optimization for predicting UHPC compressive strength on heterogeneous datasets. *Materials Today Communications*, 112405. https://doi.org/10.1016/j.mtcomm.2025.112405
+* Rahman, T., Momin, Md. F., Podder, S. K., Li, H., & Zheng, P. (2025). Optimizing NGBoost with dynamic sequential model-based optimization for predicting UHPC compressive strength on heterogeneous datasets. *Materials Today Communications*, 112405. [doi:10.1016/j.mtcomm.2025.112405](https://doi.org/10.1016/j.mtcomm.2025.112405)
 
-* Rahman, T., Momin, Md. F., & Provasha, A. A. (2025). Comprehensive analysis of structural parameters influencing the fundamental period of steel-braced RC buildings using machine learning interpretability. *AI in Civil Engineering, 4*(1), 7. https://doi.org/10.1007/s43503-025-00051-z
+* Rahman, T., Momin, Md. F., & Provasha, A. A. (2025). Comprehensive analysis of structural parameters influencing the fundamental period of steel-braced RC buildings using machine learning interpretability. *AI in Civil Engineering, 4*(1), 7. [doi:10.1007/s43503-025-00051-z](https://doi.org/10.1007/s43503-025-00051-z)
 
-* Sen, D., Shihab, Md. K., & Momin, Md. F. (2025). CNCRP manual based seismic evaluation and retrofitting of existing RC buildings: A case study. *Journal of Rehabilitation in Civil Engineering, 13*(1). https://doi.org/10.22075/jrce.2024.32938.1980
+* Sen, D., Shihab, Md. K., & Momin, Md. F. (2025). CNCRP manual based seismic evaluation and retrofitting of existing RC buildings: A case study. *Journal of Rehabilitation in Civil Engineering, 13*(1). [doi:10.22075/jrce.2024.32938.1980](https://doi.org/10.22075/jrce.2024.32938.1980)
 
-* Momin, Md. F., Islam, Md. W., Masud, F.-B.-, Naomi, N., & Sen, D. (2024). Preliminary and detailed seismic evaluation of an existing RC building in Bangladesh: A case study. *Innovative Infrastructure Solutions, 9*(10), 363. https://doi.org/10.1007/s41062-024-01693-1
+* Momin, Md. F., Islam, Md. W., Masud, F.-B.-, Naomi, N., & Sen, D. (2024). Preliminary and detailed seismic evaluation of an existing RC building in Bangladesh: A case study. *Innovative Infrastructure Solutions, 9*(10), 363. [doi:10.1007/s41062-024-01693-1](https://doi.org/10.1007/s41062-024-01693-1)
 
-* Rahman, T., Sultana, S., Ahmed, T., Momin, Md. F., & Provasha, A. A. (2024). Deep symbolic regression for numerical formulation of fundamental period in concentrically steel-braced RC frames. *Asian Journal of Civil Engineering*. https://doi.org/10.1007/s42107-024-01076-y
+* Rahman, T., Sultana, S., Ahmed, T., Momin, Md. F., & Provasha, A. A. (2024). Deep symbolic regression for numerical formulation of fundamental period in concentrically steel-braced RC frames. *Asian Journal of Civil Engineering*. [doi:10.1007/s42107-024-01076-y](https://doi.org/10.1007/s42107-024-01076-y)
 
-* Rahman, T., Hasan, M. H., Momin, Md. F., & Zheng, P. (2023). Data-driven approach to predict the fundamental period of steel-braced RC frames using stacked generalization machine learning models. *Asian Journal of Civil Engineering*. https://doi.org/10.1007/s42107-023-00914-9
+* Rahman, T., Hasan, M. H., Momin, Md. F., & Zheng, P. (2023). Data-driven approach to predict the fundamental period of steel-braced RC frames using stacked generalization machine learning models. *Asian Journal of Civil Engineering*. [doi:10.1007/s42107-023-00914-9](https://doi.org/10.1007/s42107-023-00914-9)
 
 ### Conference Papers / Proceedings
 
-* Momin, Md. F., Naomi, N., Masud, F. B., & Sen, D. (2022). Seismic vulnerability assessment of an existing RC building in Bangladesh. *6th International Conference on Civil Engineering for Sustainable Development (ICCESD 2022)*. https://iccesd.com/proc_2022/Papers/STE-4476.pdf
+* Momin, Md. F., Naomi, N., Masud, F. B., & Sen, D. (2022). Seismic vulnerability assessment of an existing RC building in Bangladesh. *6th International Conference on Civil Engineering for Sustainable Development (ICCESD 2022)*. [Proceedings PDF](https://iccesd.com/proc_2022/Papers/STE-4476.pdf)
+
 
 ## Technical Skills
 
