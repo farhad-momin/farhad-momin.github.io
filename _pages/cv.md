@@ -9,8 +9,7 @@ redirect_from:
 
 ## Curriculum Vitae
 
-I am a Lecturer in the Department of Civil Engineering at World University of Bangladesh. My academic interests are mainly related to structural engineering, seismic assessment of reinforced concrete buildings, sustainable construction materials, and machine-learning applications in civil engineering.
-
+I am a Lecturer in the Department of Civil Engineering at World University of Bangladesh. My research focuses on seismic assessment of reinforced concrete buildings, structural dynamics, sustainable construction materials, and machine-learning applications in civil engineering.
 ## Academic Appointment
 
 **Lecturer**  
