@@ -1,7 +1,7 @@
 ---
 title: "Deep symbolic regression for numerical formulation of fundamental period in concentrically steel-braced RC frames"
 collection: publications
-category: manuscripts
+category: journal
 permalink: /publication/2024-05-23-deep-symbolic-regression-for-numerical-formulation-of-fundamental-period-in-concentrically-steel-braced-rc-frames
 excerpt: "This paper develops a numerical formulation for estimating the fundamental period of concentrically steel-braced reinforced concrete frames."
 date: 2024-05-23
