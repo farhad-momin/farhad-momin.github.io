@@ -28,14 +28,6 @@ April 2022 – Present
 Ahsanullah University of Science and Technology (AUST)  
 April 2017 – January 2022
 
-**Higher Secondary School Certificate**  
-Dhaka Imperial College, Dhaka  
-July 2014 – June 2016
-
-**Secondary School Certificate**  
-Faizur Rahman Ideal Institute, Dhaka  
-January 2012 – May 2014
-
 ## Research Experience
 
 **M.Sc. Research**  
