@@ -56,10 +56,7 @@ April 2017 – January 2022
 - Seismic evaluation of reinforced concrete buildings
 - Structural dynamics
 - Sustainable construction materials
-- Recycled aggregate concrete
-- Ultra-high-performance concrete
 - Machine-learning applications in civil engineering
-- Data-driven prediction of structural and material properties
 
 ## Major Courses Taught
 
