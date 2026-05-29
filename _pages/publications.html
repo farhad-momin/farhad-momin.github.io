@@ -12,11 +12,12 @@ description: "Peer-reviewed journal articles and conference papers by Md. Farhad
 
 {% include base_path %}
 
-<!-- Publication categories: Journal Articles and Conference Papers / Proceedings -->
+{% assign sorted_publications = site.publications | sort: "date" | reverse %}
+
 {% if site.publication_category %}
   {% for category in site.publication_category %}
     {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
+    {% for post in sorted_publications %}
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
@@ -28,7 +29,7 @@ description: "Peer-reviewed journal articles and conference papers by Md. Farhad
     {% endfor %}
   {% endfor %}
 {% else %}
-  {% for post in site.publications reversed %}
+  {% for post in sorted_publications %}
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
