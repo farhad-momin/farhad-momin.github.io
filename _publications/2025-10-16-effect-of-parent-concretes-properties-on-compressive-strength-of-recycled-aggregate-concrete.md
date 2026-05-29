@@ -1,7 +1,7 @@
 ---
 title: "Effect of parent concrete’s properties on compressive strength of recycled aggregate concrete"
 collection: publications
-category: manuscripts
+category: journal
 permalink: /publication/2025-10-16-effect-of-parent-concretes-properties-on-compressive-strength-of-recycled-aggregate-concrete
 excerpt: "This paper investigates how the properties of parent concrete influence the compressive strength of recycled aggregate concrete."
 date: 2025-10-16
