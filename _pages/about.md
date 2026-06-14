@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Lecturer in the Department of Civil Engineering at World University of Bangladesh. I am also pursuing an M.Sc. in Structural Engineering at Bangladesh University of Engineering and Technology (BUET), where my research focuses on the comparison of seismic assessment methods for reinforced concrete buildings.
+As a Lecturer in the Department of Civil Engineering at World University of Bangladesh and an M.Sc. candidate in Structural Engineering at BUET, my academic work brings together earthquake engineering, structural assessment, and data-driven methods. This intersection shapes both my research and my teaching.
+My current thesis compares seismic assessment methods for reinforced concrete buildings, with a broader interest in the vulnerability evaluation of existing RC structures. This work involves structural modeling, assessment of building response under seismic loading, and investigation of the parameters that influence performance during earthquakes. Alongside conventional analytical approaches, I am also interested in how machine learning and other data-driven methods can support the prediction of structural and material behavior.
+This predictive perspective connects with my work on sustainable construction materials, particularly recycled aggregate concrete, where properties and performance depend on multiple interacting variables. These interests carry into my teaching as well. In undergraduate courses and student supervision, I focus on structural analysis, modeling, experimental work, and technical writing.
+The broader aim of my work is to contribute to practical and reliable assessment approaches for existing reinforced concrete buildings, particularly in the context of seismic risk in Bangladesh.
 
-My academic and research interests include structural engineering, earthquake engineering, seismic assessment of existing reinforced concrete buildings, sustainable construction materials, and machine-learning applications in civil engineering. My research experience includes seismic vulnerability assessment of reinforced concrete buildings, comparison of seismic assessment approaches, structural modeling, and studies related to the structural parameters influencing building response.
-
-I have also contributed to research on concrete materials, particularly recycled aggregate concrete, ultra-high-performance concrete, and data-driven prediction of civil engineering properties. Alongside research, I teach undergraduate civil engineering courses and guide students in structural analysis, design, modeling, experimental work, and technical writing.
-
-My current research direction focuses on improving practical and reliable assessment approaches for existing reinforced concrete buildings, particularly in the context of Bangladesh.
