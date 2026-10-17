@@ -13,10 +13,6 @@ body_class: home
     </div>
   </header>
 
-  <div class="prose lead">
-    {{ content }}
-  </div>
-
   <ul class="links" aria-label="Profiles">
     {% if a.email %}<li><a href="mailto:{{ a.email }}">Email</a></li>{% endif %}
     {% if a.googlescholar %}<li><a href="{{ a.googlescholar }}" rel="me noopener">Google Scholar</a></li>{% endif %}
@@ -25,4 +21,9 @@ body_class: home
     {% if a.scopus %}<li><a href="{{ a.scopus }}" rel="me noopener">Scopus</a></li>{% endif %}
     {% if a.linkedin %}<li><a href="https://www.linkedin.com/in/{{ a.linkedin }}" rel="me noopener">LinkedIn</a></li>{% endif %}
   </ul>
+
+  <div class="prose lead">
+    {{ content }}
+  </div>
+
 </article>
