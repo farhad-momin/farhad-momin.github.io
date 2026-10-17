@@ -1,0 +1,28 @@
+---
+layout: default
+body_class: home
+---
+{% assign a = site.author %}
+<article class="page">
+  <header class="intro">
+    <img class="avatar" src="{{ '/images/' | append: a.avatar | relative_url }}" alt="{{ a.name }}" width="112" height="112">
+    <div class="intro-text">
+      <h1>{{ a.name }}</h1>
+      <p class="role">{{ a.bio | replace: " | ", " &middot; " }}</p>
+      <p class="where">{{ a.employer }}<br>{{ a.location }}</p>
+    </div>
+  </header>
+
+  <div class="prose lead">
+    {{ content }}
+  </div>
+
+  <ul class="links" aria-label="Profiles">
+    {% if a.email %}<li><a href="mailto:{{ a.email }}">Email</a></li>{% endif %}
+    {% if a.googlescholar %}<li><a href="{{ a.googlescholar }}" rel="me noopener">Google Scholar</a></li>{% endif %}
+    {% if a.orcid %}<li><a href="{{ a.orcid }}" rel="me noopener">ORCID</a></li>{% endif %}
+    {% if a.researchgate %}<li><a href="{{ a.researchgate }}" rel="me noopener">ResearchGate</a></li>{% endif %}
+    {% if a.scopus %}<li><a href="{{ a.scopus }}" rel="me noopener">Scopus</a></li>{% endif %}
+    {% if a.linkedin %}<li><a href="https://www.linkedin.com/in/{{ a.linkedin }}" rel="me noopener">LinkedIn</a></li>{% endif %}
+  </ul>
+</article>
