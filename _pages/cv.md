@@ -146,6 +146,7 @@ April 2017 – January 2022
 
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=_MDkhacAAAAJ)
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=58338983300)
+- [Web of Science](https://www.webofscience.com/wos/author/rid/LFS-2198-2024)
 - [ORCID](https://orcid.org/0009-0004-2499-4772)
 - [ResearchGate](https://www.researchgate.net/profile/Md-Farhad-Momin)
 - [LinkedIn](https://bd.linkedin.com/in/mdfarhadmomin)
