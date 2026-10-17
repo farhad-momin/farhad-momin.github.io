@@ -1,13 +1,9 @@
 ---
-layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
-author_profile: true
 redirect_from:
   - /resume
 ---
-
-## Curriculum Vitae
 
 I am a Lecturer in the Department of Civil Engineering at World University of Bangladesh. My research focuses on seismic assessment of reinforced concrete buildings, structural dynamics, sustainable construction materials, and machine-learning applications in civil engineering.
 ## Academic Appointment
@@ -59,9 +55,9 @@ April 2017 – January 2022
 
 ## Major Courses Taught
 
-<div style="display: flex; gap: 60px; flex-wrap: wrap;">
+<div class="cols">
 
-  <div style="flex: 1; min-width: 280px;">
+  <div>
     <h3>Theoretical Courses</h3>
     <ul>
       <li>Mechanics of Solids I</li>
@@ -71,7 +67,7 @@ April 2017 – January 2022
     </ul>
   </div>
 
-  <div style="flex: 1; min-width: 280px;">
+  <div>
     <h3>Sessional Courses</h3>
     <ul>
       <li>Design of Concrete Structures Sessional I</li>

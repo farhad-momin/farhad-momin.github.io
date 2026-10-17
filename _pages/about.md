@@ -1,7 +1,7 @@
 ---
+layout: home
 permalink: /
 title: "About"
-author_profile: true
 description: "Academic profile of Md. Farhad Momin, focusing on structural engineering, seismic assessment of reinforced concrete buildings, and machine-learning applications in civil engineering."
 redirect_from: 
   - /about/
