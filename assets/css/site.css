@@ -138,6 +138,10 @@ h1 {
   font-family: var(--serif); font-style: italic; font-weight: 400; font-size: 1.15rem;
   margin: 2rem 0 .75rem; color: var(--ink);
 }
+.prose h4 {
+font-family: var(--sans); font-size: .75rem; font-weight: 600; letter-spacing: .1em;
+text-transform: uppercase; color: var(--muted); margin: 1.75rem 0 .6rem;
+}
 .prose ul { list-style: none; padding: 0; margin: 0 0 1.25em; }
 .prose ul > li { position: relative; padding-left: 1.25rem; margin: .35rem 0; }
 .prose ul > li::before {
