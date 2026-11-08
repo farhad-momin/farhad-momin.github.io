@@ -179,6 +179,13 @@ transition: border-color .15s ease, color .15s ease;
 .pub-links a::after { content: " \2197"; font-size: .85em; opacity: .55; }
 .pub-links a:hover { border-color: var(--accent); color: var(--accent); }
 
+/* Justified text */
+.lead p, .prose p {
+text-align: justify; text-justify: inter-word;
+-webkit-hyphens: auto; hyphens: auto;
+}
+.pubs p, .scholar, .where, .role { text-align: left; -webkit-hyphens: manual; hyphens: manual; }
+
 /* Teaching */
 .cols { display: grid; grid-template-columns: 1fr 1fr; gap: 0 3rem; }
 .cols h3 { margin-top: 0; }
