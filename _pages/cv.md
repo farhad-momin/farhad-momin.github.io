@@ -123,6 +123,14 @@ April 2017 – January 2022
 - Python
 - C
 
+**Machine Learning and Data Analysis**
+
+- Ensemble and gradient boosting models (NGBoost, stacked generalization)
+- Hyperparameter optimization (Bayesian and sequential model-based)
+- Model interpretability
+- Symbolic regression
+- Validation of predictive models on heterogeneous datasets
+
 ## Language Proficiency
 
 - Bengali: Native
