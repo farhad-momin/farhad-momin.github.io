@@ -9,13 +9,12 @@ body_class: home
     <div class="intro-text">
       <h1>{{ a.name }}</h1>
       <p class="role">{{ a.bio | replace: " | ", " &middot; " }}</p>
-      <p class="where">{{ a.employer }}<br>{{ a.location }}</p>
+      <p class="where">{{ a.employer }}<br>{{ a.location }}{% if a.email %}<br><a href="mailto:{{ a.email }}">{{ a.email }}</a>{% endif %}</p>
     </div>
   </header>
 
   <ul class="links" aria-label="Profiles">
-    {% if a.email %}<li><a href="mailto:{{ a.email }}">Email</a></li>{% endif %}
-    {% if a.googlescholar %}<li><a href="{{ a.googlescholar }}" rel="me noopener">Google Scholar</a></li>{% endif %}
+      {% if a.googlescholar %}<li><a href="{{ a.googlescholar }}" rel="me noopener">Google Scholar</a></li>{% endif %}
     {% if a.orcid %}<li><a href="{{ a.orcid }}" rel="me noopener">ORCID</a></li>{% endif %}
     {% if a.researchgate %}<li><a href="{{ a.researchgate }}" rel="me noopener">ResearchGate</a></li>{% endif %}
     {% if a.scopus %}<li><a href="{{ a.scopus }}" rel="me noopener">Scopus</a></li>{% endif %}
