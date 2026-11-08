@@ -170,6 +170,14 @@ h1 {
 .pubs .pub-authors { margin: .5rem 0 0; font-size: .9375rem; line-height: 1.5; color: var(--muted); }
 .pub-authors strong { color: var(--ink); font-weight: 600; }
 .pubs .pub-venue { margin: .2rem 0 0; font-size: .9375rem; line-height: 1.5; font-style: italic; color: var(--muted); }
+.pubs .pub-links { margin: .7rem 0 0; font-family: var(--sans); font-size: .75rem; line-height: 1.2; }
+.pub-links a {
+display: inline-block; padding: .3rem .7rem; border: 1px solid var(--rule); border-radius: 999px;
+text-decoration: none; color: var(--ink);
+transition: border-color .15s ease, color .15s ease;
+}
+.pub-links a::after { content: " \2197"; font-size: .85em; opacity: .55; }
+.pub-links a:hover { border-color: var(--accent); color: var(--accent); }
 
 /* Teaching */
 .cols { display: grid; grid-template-columns: 1fr 1fr; gap: 0 3rem; }
