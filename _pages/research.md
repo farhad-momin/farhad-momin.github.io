@@ -9,9 +9,11 @@ My research connects the seismic assessment of existing reinforced concrete buil
 
 ## Seismic assessment of existing RC buildings
 
-My M.Sc. thesis at BUET, supervised by Prof. Dr. Raquib Ahsan, compares seismic assessment methods for reinforced concrete buildings. Related work applies preliminary and detailed evaluation procedures, and retrofitting guidance, to existing buildings in Bangladesh.
+My M.Sc. thesis at BUET, supervised by Prof. Dr. Raquib Ahsan, compares seismic assessment methods for reinforced concrete buildings.
 
-### Related publications
+My publications in this area apply preliminary and detailed evaluation procedures, and retrofitting guidance, to existing buildings in Bangladesh.
+
+### Publications
 
 - [Preliminary and detailed seismic evaluation of an existing RC building in Bangladesh: A case study](https://doi.org/10.1007/s41062-024-01693-1), *Innovative Infrastructure Solutions*, 2024
 - [CNCRP manual based seismic evaluation and retrofitting of existing RC buildings: A case study](https://doi.org/10.22075/jrce.2024.32938.1980), *Journal of Rehabilitation in Civil Engineering*, 2025
