@@ -26,7 +26,7 @@ description: "Peer-reviewed journal articles and conference papers by Md. Farhad
         <h3 class="pub-title"><a href="{{ post.paperurl }}" rel="noopener">{{ post.title }}</a></h3>
         <p class="pub-authors">{{ authors }}</p>
         <p class="pub-venue">{{ post.venue }}</p>
-        <p class="pub-links"><a href="{{ post.paperurl }}" rel="noopener">{% if post.paperurl contains 'doi.org' %}DOI{% else %}PDF{% endif %}</a></p>
+        <p class="pub-links">{% if post.paperurl contains 'doi.org' %}<a href="{{ post.paperurl }}" rel="noopener">doi:{{ post.paperurl | split: 'doi.org/' | last }}</a>{% else %}<a href="{{ post.paperurl }}" rel="noopener">PDF</a>{% endif %}</p>
       </div>
     </li>
   {% endfor %}
