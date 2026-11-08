@@ -125,6 +125,9 @@ h1 {
 .links a[href^="mailto"]::after { content: ""; }
 .links a:hover { border-color: var(--accent); color: var(--accent); }
 .links a[href^="mailto"]:hover { background: var(--accent); border-color: var(--accent); color: var(--bg); }
+.links { display: grid; grid-template-columns: repeat(3, 1fr); }
+.links a { display: block; text-align: center; }
+@media (max-width: 36rem) { .links { grid-template-columns: repeat(2, 1fr); } }
 
 /* Prose */
 .prose > :first-child { margin-top: 0; }
