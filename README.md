@@ -2,7 +2,7 @@
 
 Personal academic website of Md. Farhad Momin, Lecturer in the Department of Civil Engineering at World University of Bangladesh. The research focuses on seismic assessment of reinforced concrete buildings and machine learning applications in civil engineering.
 
-Live site: https://farhad-momin.github.io/
+Live site: https://farhadmomin.github.io/
 
 ## Pages
 
