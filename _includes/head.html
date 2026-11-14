@@ -13,6 +13,11 @@
 <meta property="og:description" content="{{ page_desc | strip_html | escape }}">
 <meta property="og:url" content="{{ page.url | replace: 'index.html', '' | absolute_url }}">
 <meta property="og:image" content="{{ '/images/' | append: site.author.avatar | absolute_url }}">
+{% if page.url == '/' %}
+<script type="application/ld+json">
+  {"@context":"https://schema.org","@type":"Person","name":{{ site.author.name | jsonify }},"jobTitle":"Lecturer","affiliation":{"@type":"CollegeOrUniversity","name":{{ site.author.employer | jsonify }}},"url":{{ site.url | append: '/' | jsonify }},"image":{{ '/images/' | append: site.author.avatar | absolute_url | jsonify }},"sameAs":[{{ site.author.orcid | jsonify }},{{ site.author.scopus | jsonify }},{{ site.author.wos | jsonify }},{{ site.author.googlescholar | jsonify }},{{ site.author.researchgate | jsonify }},"https://www.linkedin.com/in/{{ site.author.linkedin }}"]}
+</script>
+{% endif %}
 <meta name="theme-color" content="#faf8f5" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#141311" media="(prefers-color-scheme: dark)">
 <link rel="icon" href="{{ '/images/favicon.ico' | relative_url }}" sizes="any">
