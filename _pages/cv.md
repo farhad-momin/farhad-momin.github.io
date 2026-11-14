@@ -1,11 +1,15 @@
 ---
 title: "Curriculum Vitae"
+description: Curriculum vitae of Md. Farhad Momin, Lecturer in Civil Engineering at World University of Bangladesh. Seismic assessment of RC buildings and machine learning.
 permalink: /cv/
 redirect_from:
   - /resume
 ---
 
 I am a Lecturer in the Department of Civil Engineering at World University of Bangladesh. My research focuses on seismic assessment of reinforced concrete buildings, structural dynamics, sustainable construction materials, and machine-learning applications in civil engineering.
+
+[Download CV as PDF](/assets/Farhad_Momin_CV.pdf)
+
 ## Academic Appointment
 
 **Lecturer**  
@@ -78,7 +82,7 @@ April 2017 – January 2022
 
 </div>
 
-## Selected Publications
+## Publications
 
 ### Journal Articles
 
@@ -92,7 +96,7 @@ April 2017 – January 2022
 
 * Sen, D., Shihab, Md. K., & Momin, Md. F. (2025). CNCRP manual based seismic evaluation and retrofitting of existing RC buildings: A case study. *Journal of Rehabilitation in Civil Engineering, 13*(1). [doi:10.22075/jrce.2024.32938.1980](https://doi.org/10.22075/jrce.2024.32938.1980)
 
-* Momin, Md. F., Islam, Md. W., Masud, F.-B.-, Naomi, N., & Sen, D. (2024). Preliminary and detailed seismic evaluation of an existing RC building in Bangladesh: A case study. *Innovative Infrastructure Solutions, 9*(10), 363. [doi:10.1007/s41062-024-01693-1](https://doi.org/10.1007/s41062-024-01693-1)
+* Momin, Md. F., Islam, Md. W., Masud, F. B., Naomi, N., & Sen, D. (2024). Preliminary and detailed seismic evaluation of an existing RC building in Bangladesh: A case study. *Innovative Infrastructure Solutions, 9*(10), 363. [doi:10.1007/s41062-024-01693-1](https://doi.org/10.1007/s41062-024-01693-1)
 
 * Rahman, T., Sultana, S., Ahmed, T., Momin, Md. F., & Provasha, A. A. (2024). Deep symbolic regression for numerical formulation of fundamental period in concentrically steel-braced RC frames. *Asian Journal of Civil Engineering*. [doi:10.1007/s42107-024-01076-y](https://doi.org/10.1007/s42107-024-01076-y)
 
