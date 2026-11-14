@@ -82,7 +82,7 @@ April 2017 – January 2022
 
 </div>
 
-## Publications
+## Selected Publications
 
 ### Journal Articles
 
