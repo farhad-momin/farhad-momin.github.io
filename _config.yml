@@ -3,9 +3,9 @@ locale      : "en-US"
 title       : "Md. Farhad Momin"
 name        : "Md. Farhad Momin"
 description : "Md. Farhad Momin's academic portfolio"
-url         : https://farhad-momin.github.io
+url         : https://farhadmomin.github.io
 baseurl     : ""
-repository  : "farhad-momin/farhad-momin.github.io"
+repository  : "farhadmomin/farhadmomin.github.io"
 
 # Author (shown on the home page)
 author:
